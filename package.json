@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/stats-base-ztest-alternatives": "github:stdlib-js/stats-base-ztest-alternatives#main"
+    "@stdlib/stats-base-ztest-alternatives": "github:stdlib-js/stats-base-ztest-alternatives#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.2",
